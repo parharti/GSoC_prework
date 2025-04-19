@@ -1,11 +1,11 @@
 # GSoC_prework
-# 🧠 Multichannel Cell Candidate Detection – GSoC 2025 Prototype
+#  Multichannel Cell Candidate Detection – GSoC 2025 Prototype
 
 This notebook demonstrates a prototype implementation of the **cell candidate detection pipeline** described in my GSoC 2025 proposal for the [Cellfinder](https://github.com/brainglobe/cellfinder) project under the **BrainGlobe** ecosystem.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To simulate and test **cell candidate detection** across an **arbitrary number of imaging channels** using synthetic brain-like data.
 
@@ -13,7 +13,7 @@ This serves as a foundational step toward enabling **multi-channel-aware classif
 
 ---
 
-## 🔍 What's Implemented
+##  What's Implemented
 
 - ✅ Synthetic **3D brain image** loading (3 channels)
 - ✅ Blob detection using `skimage.feature.blob_log` on:
@@ -26,7 +26,7 @@ This serves as a foundational step toward enabling **multi-channel-aware classif
 
 ---
 
-## 🧪 Why This Matters
+##  Why This Matters
 
 This prototype demonstrates the viability of:
 - Detecting candidates from **N-channel input**
@@ -37,16 +37,16 @@ It aligns directly with **Week 1–2 deliverables** from my [GSoC 2025 proposal]
 
 ---
 
-## 💬 Feedback Welcome!
+##  Feedback Welcome!
 
 I’m actively working on this as part of my GSoC preparation.  
 Feel free to open issues, suggestions, or reach out via Zulip!
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
-- Python 🐍
+- Python 
 - NumPy
 - Matplotlib
 - scikit-image
@@ -54,7 +54,7 @@ Feel free to open issues, suggestions, or reach out via Zulip!
 
 ---
 
-## 📚 Related Links
+##  Related Links
 
 - 📄 [Cellfinder Paper](https://doi.org/10.1371/journal.pcbi.1009074)
 - 🧠 [BrainGlobe Tools](https://brainglobe.info/)
@@ -62,7 +62,7 @@ Feel free to open issues, suggestions, or reach out via Zulip!
 
 ---
 
-## 🌟 Author
+##  Author
 
 **Prisha Sharma**  
 GSoC 2025 Applicant | Open-source Contributor | Scientific ML Enthusiast  
