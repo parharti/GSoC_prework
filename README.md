@@ -26,14 +26,6 @@ This serves as a foundational step toward enabling **multi-channel-aware classif
 
 ---
 
-## 📸 Sample Output
-
-*Blob detection overlay on Channel 1 (red circles = detected blobs)*
-
-![blob-detection](imgs/blobs_channel_1.png)
-
----
-
 ## 🧪 Why This Matters
 
 This prototype demonstrates the viability of:
